@@ -1,0 +1,6 @@
+{
+  "name": "pos",
+  "version": "1.2.4",
+  "main": "electron.js",
+  "private": true
+}
